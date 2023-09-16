@@ -1,2 +1,2 @@
 # GameCodeProjects
-Game
+Game that shoots out random colorful cubes
